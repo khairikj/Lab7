@@ -1,6 +1,7 @@
 import 'Home_Page.dart';
 import 'package:flutter/material.dart';
 import 'package:local_auth/local_auth.dart';
+import 'package:gallery_app/otp_page.dart';
 
 class AuthPage extends StatelessWidget {
   final LocalAuthentication localAuth = LocalAuthentication();
@@ -34,7 +35,7 @@ class AuthPage extends StatelessWidget {
             Container(
               child: RaisedButton(
                 onPressed: () {
-
+                  OtpPage();
                 },
                 child: Text('Enter pin to Login'),
               ),
