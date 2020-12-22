@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "48627912941",
+    "firebase_url": "https://ninja-brew-crew-acee7.firebaseio.com",
+    "project_id": "ninja-brew-crew-acee7",
+    "storage_bucket": "ninja-brew-crew-acee7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48627912941:android:2f0c2972c1f6dfb6fcbce4",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48627912941-50fg5csocqtoltkrahebpv06khpht91v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnrutgKkL1_MQUeoVKTJJZWt9albNublo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48627912941-50fg5csocqtoltkrahebpv06khpht91v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48627912941:android:7edf0dbda0d49199fcbce4",
+        "android_client_info": {
+          "package_name": "com.example.gallery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48627912941-50fg5csocqtoltkrahebpv06khpht91v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnrutgKkL1_MQUeoVKTJJZWt9albNublo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48627912941-50fg5csocqtoltkrahebpv06khpht91v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48627912941:android:d363ad136d61e5b3fcbce4",
+        "android_client_info": {
+          "package_name": "com.example.mygallery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48627912941-50fg5csocqtoltkrahebpv06khpht91v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnrutgKkL1_MQUeoVKTJJZWt9albNublo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48627912941-50fg5csocqtoltkrahebpv06khpht91v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
